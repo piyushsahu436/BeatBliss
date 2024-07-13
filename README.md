@@ -1,6 +1,6 @@
 # Musicplayer
 
-A new Flutter project.
+
 Implement the Provider state management
 
 ## Getting Started
